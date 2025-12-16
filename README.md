@@ -1,6 +1,6 @@
 # Urban Growth Prediction from Satellite Imagery
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17946462.svg)](https://doi.org/10.5281/zenodo.17946462)
 
 **Duration:** 60-90 minutes
 **Platform:** Google Colab or SageMaker Studio Lab
